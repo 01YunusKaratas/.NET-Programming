@@ -1,0 +1,7 @@
+C:\Users\YUNUS EMRE\source\repos\homework-app\homework-app\bin\Debug\homework-app.exe.config
+C:\Users\YUNUS EMRE\source\repos\homework-app\homework-app\bin\Debug\homework-app.exe
+C:\Users\YUNUS EMRE\source\repos\homework-app\homework-app\bin\Debug\homework-app.pdb
+C:\Users\YUNUS EMRE\source\repos\homework-app\homework-app\obj\Debug\homework-app.csproj.AssemblyReference.cache
+C:\Users\YUNUS EMRE\source\repos\homework-app\homework-app\obj\Debug\homework-app.csproj.CoreCompileInputs.cache
+C:\Users\YUNUS EMRE\source\repos\homework-app\homework-app\obj\Debug\homework-app.exe
+C:\Users\YUNUS EMRE\source\repos\homework-app\homework-app\obj\Debug\homework-app.pdb
