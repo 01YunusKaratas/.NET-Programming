@@ -1,0 +1,7 @@
+C:\Users\YUNUS EMRE\source\repos\week-2\week-2\bin\Debug\week-2.exe.config
+C:\Users\YUNUS EMRE\source\repos\week-2\week-2\bin\Debug\week-2.exe
+C:\Users\YUNUS EMRE\source\repos\week-2\week-2\bin\Debug\week-2.pdb
+C:\Users\YUNUS EMRE\source\repos\week-2\week-2\obj\Debug\week-2.csproj.AssemblyReference.cache
+C:\Users\YUNUS EMRE\source\repos\week-2\week-2\obj\Debug\week-2.csproj.CoreCompileInputs.cache
+C:\Users\YUNUS EMRE\source\repos\week-2\week-2\obj\Debug\week-2.exe
+C:\Users\YUNUS EMRE\source\repos\week-2\week-2\obj\Debug\week-2.pdb
