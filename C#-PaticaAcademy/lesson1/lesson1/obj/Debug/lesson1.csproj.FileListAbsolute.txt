@@ -1,0 +1,7 @@
+C:\Users\YUNUS EMRE\source\repos\lesson1\lesson1\bin\Debug\lesson1.exe.config
+C:\Users\YUNUS EMRE\source\repos\lesson1\lesson1\bin\Debug\lesson1.exe
+C:\Users\YUNUS EMRE\source\repos\lesson1\lesson1\bin\Debug\lesson1.pdb
+C:\Users\YUNUS EMRE\source\repos\lesson1\lesson1\obj\Debug\lesson1.csproj.AssemblyReference.cache
+C:\Users\YUNUS EMRE\source\repos\lesson1\lesson1\obj\Debug\lesson1.csproj.CoreCompileInputs.cache
+C:\Users\YUNUS EMRE\source\repos\lesson1\lesson1\obj\Debug\lesson1.exe
+C:\Users\YUNUS EMRE\source\repos\lesson1\lesson1\obj\Debug\lesson1.pdb
