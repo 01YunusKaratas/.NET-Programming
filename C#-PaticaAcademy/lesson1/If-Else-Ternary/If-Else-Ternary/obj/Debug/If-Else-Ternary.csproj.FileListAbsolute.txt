@@ -1,0 +1,7 @@
+C:\Users\YUNUS EMRE\source\repos\If-Else-Ternary\If-Else-Ternary\bin\Debug\If-Else-Ternary.exe.config
+C:\Users\YUNUS EMRE\source\repos\If-Else-Ternary\If-Else-Ternary\bin\Debug\If-Else-Ternary.exe
+C:\Users\YUNUS EMRE\source\repos\If-Else-Ternary\If-Else-Ternary\bin\Debug\If-Else-Ternary.pdb
+C:\Users\YUNUS EMRE\source\repos\If-Else-Ternary\If-Else-Ternary\obj\Debug\If-Else-Ternary.csproj.AssemblyReference.cache
+C:\Users\YUNUS EMRE\source\repos\If-Else-Ternary\If-Else-Ternary\obj\Debug\If-Else-Ternary.csproj.CoreCompileInputs.cache
+C:\Users\YUNUS EMRE\source\repos\If-Else-Ternary\If-Else-Ternary\obj\Debug\If-Else-Ternary.exe
+C:\Users\YUNUS EMRE\source\repos\If-Else-Ternary\If-Else-Ternary\obj\Debug\If-Else-Ternary.pdb
