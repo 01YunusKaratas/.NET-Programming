@@ -1,0 +1,7 @@
+C:\Users\YUNUS EMRE\source\repos\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\YUNUS EMRE\source\repos\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\YUNUS EMRE\source\repos\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\YUNUS EMRE\source\repos\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\YUNUS EMRE\source\repos\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\YUNUS EMRE\source\repos\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\YUNUS EMRE\source\repos\Operators\Operators\obj\Debug\Operators.pdb
