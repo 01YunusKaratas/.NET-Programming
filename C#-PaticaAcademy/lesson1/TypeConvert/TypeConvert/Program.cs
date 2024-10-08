@@ -14,8 +14,8 @@ namespace TypeConvert
             //Type conversions -> Implicit conversions(bilinçsiz)  and Explicit Conversion(Bilinçli)
 
             //Implicit dönüşümü biz hiçbir şey yapmadan makine yapıyor 
-
-
+            //DateTime dönüşümü için Convert.ToDateTime ya da DateTime.Parse() ile yaparız.
+    
             byte a = 4;
             sbyte b = 5;
             short c = 6;
