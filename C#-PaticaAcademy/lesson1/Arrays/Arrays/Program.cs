@@ -66,6 +66,35 @@ namespace Arrays
             Console.WriteLine($"AVERAGE : {(double)total/num}");
 
             
+            //Array  Sınıfı Methodları 
+
+            //Array.Sort
+
+            //int[] sayılar = { 7,6,5,4,3,2,1 };
+
+            //Array.Sort(sayılar);  // Diziyi küçükten büyüğe doğru sıraladı
+
+
+            //Array.Clear(sayılar,0,sayılar.Length); //içerikleri sildi numeric dizi olduğu için sıfır olarak setledi
+
+            //Array.Reverse(sayılar); //Diziyi tam tersi olucak şekilde çevirdi.
+
+            // Console.WriteLine(Array.IndexOf(sayılar, 7)); //Dizinin içindeki sayıların indexini verir
+
+            /*Array.Resize<int>(ref sayılar, 10);
+
+            Bu function da Arrayi yeniden boyutlandırmaya yarıyor 
+            sayılar[7] = 11;
+            sayılar[8] = 12;
+            sayılar[9] = 13;*/
+
+
+            /*foreach (int i in sayılar)
+            {
+                Console.WriteLine(i);   
+            }*/
+
+            
 
 
 
