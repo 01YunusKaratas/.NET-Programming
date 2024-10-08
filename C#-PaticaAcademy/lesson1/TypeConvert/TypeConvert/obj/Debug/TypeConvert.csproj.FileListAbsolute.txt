@@ -1,0 +1,7 @@
+C:\Users\YUNUS EMRE\source\repos\TypeConvert\TypeConvert\bin\Debug\TypeConvert.exe.config
+C:\Users\YUNUS EMRE\source\repos\TypeConvert\TypeConvert\bin\Debug\TypeConvert.exe
+C:\Users\YUNUS EMRE\source\repos\TypeConvert\TypeConvert\bin\Debug\TypeConvert.pdb
+C:\Users\YUNUS EMRE\source\repos\TypeConvert\TypeConvert\obj\Debug\TypeConvert.csproj.AssemblyReference.cache
+C:\Users\YUNUS EMRE\source\repos\TypeConvert\TypeConvert\obj\Debug\TypeConvert.csproj.CoreCompileInputs.cache
+C:\Users\YUNUS EMRE\source\repos\TypeConvert\TypeConvert\obj\Debug\TypeConvert.exe
+C:\Users\YUNUS EMRE\source\repos\TypeConvert\TypeConvert\obj\Debug\TypeConvert.pdb
