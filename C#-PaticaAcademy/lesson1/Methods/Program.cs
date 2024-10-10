@@ -27,6 +27,35 @@ namespace Methods
             m1.writeConsole("yunus emre karataş");
 
             m1.Show(12, 34);
+
+            //Method overloading and out parameter
+            
+            string sayı = "999";
+
+            int outSayı;
+
+
+            bool sonuç = int.TryParse(sayı, out outSayı);
+
+            if (sonuç)
+            {
+                
+                Console.WriteLine("İşlem başarılı");
+                Console.WriteLine(outSayı);
+            }
+            else
+            {
+                Console.WriteLine("İşlem başarısız.");
+                Console.WriteLine(outSayı);
+
+            }
+
+            methodlar m1 = new methodlar();
+
+            m1.topla(5, 4,out int topla);
+
+
+            Console.WriteLine(topla);
             
         }
 
@@ -64,4 +93,25 @@ namespace Methods
         }
 
     }
+
+    //ref: Değişkenin referansını geçirir, çağrıldığında bir değer almış olmalıdır.
+//TryParse, C#'ta bir verinin belirli bir türdeki değerine dönüştürülüp dönüştürülemeyeceğini kontrol etmek için kullanılan bir yöntemdir.
+//out: Değişkenin referansını geçirir, ancak çağrıldığında bir değeri olmayabilir ve metot içinde kesinlikle bir değer atanmalıdır.
+
+//out bence :out, bir metot içerisinde bir değişkene mutlaka bir değer atandığını ve bu değerin metot dışına da gönderileceğini belirtmek için kullanılır.
+
+
+class methodlar
+{
+    public void topla(int a ,int b ,out int topla)
+    {
+        topla = a + b; //mutlaka fonksiyon içerisinde değer atıyosun ve bu değeri fonksiton dışında kullanabiliyosun
+
+    }
+
+}
+
+
+//Önemli 3 konu :METHOD OVERLOADING ,REF,OUT
+
 }
