@@ -1,0 +1,7 @@
+C:\Users\YUNUS EMRE\source\repos\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\YUNUS EMRE\source\repos\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\YUNUS EMRE\source\repos\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\YUNUS EMRE\source\repos\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\YUNUS EMRE\source\repos\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\YUNUS EMRE\source\repos\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\YUNUS EMRE\source\repos\Methods\Methods\obj\Debug\Methods.pdb
