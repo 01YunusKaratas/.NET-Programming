@@ -1,0 +1,7 @@
+C:\Users\YUNUS EMRE\source\repos\DateTime-Math\DateTime-Math\bin\Debug\DateTime-Math.exe.config
+C:\Users\YUNUS EMRE\source\repos\DateTime-Math\DateTime-Math\bin\Debug\DateTime-Math.exe
+C:\Users\YUNUS EMRE\source\repos\DateTime-Math\DateTime-Math\bin\Debug\DateTime-Math.pdb
+C:\Users\YUNUS EMRE\source\repos\DateTime-Math\DateTime-Math\obj\Debug\DateTime-Math.csproj.AssemblyReference.cache
+C:\Users\YUNUS EMRE\source\repos\DateTime-Math\DateTime-Math\obj\Debug\DateTime-Math.csproj.CoreCompileInputs.cache
+C:\Users\YUNUS EMRE\source\repos\DateTime-Math\DateTime-Math\obj\Debug\DateTime-Math.exe
+C:\Users\YUNUS EMRE\source\repos\DateTime-Math\DateTime-Math\obj\Debug\DateTime-Math.pdb
