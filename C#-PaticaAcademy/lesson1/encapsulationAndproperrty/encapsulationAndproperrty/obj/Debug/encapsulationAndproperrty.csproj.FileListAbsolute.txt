@@ -1,0 +1,7 @@
+C:\Users\YUNUS EMRE\source\repos\encapsulationAndproperrty\encapsulationAndproperrty\bin\Debug\encapsulationAndproperrty.exe.config
+C:\Users\YUNUS EMRE\source\repos\encapsulationAndproperrty\encapsulationAndproperrty\bin\Debug\encapsulationAndproperrty.exe
+C:\Users\YUNUS EMRE\source\repos\encapsulationAndproperrty\encapsulationAndproperrty\bin\Debug\encapsulationAndproperrty.pdb
+C:\Users\YUNUS EMRE\source\repos\encapsulationAndproperrty\encapsulationAndproperrty\obj\Debug\encapsulationAndproperrty.csproj.AssemblyReference.cache
+C:\Users\YUNUS EMRE\source\repos\encapsulationAndproperrty\encapsulationAndproperrty\obj\Debug\encapsulationAndproperrty.csproj.CoreCompileInputs.cache
+C:\Users\YUNUS EMRE\source\repos\encapsulationAndproperrty\encapsulationAndproperrty\obj\Debug\encapsulationAndproperrty.exe
+C:\Users\YUNUS EMRE\source\repos\encapsulationAndproperrty\encapsulationAndproperrty\obj\Debug\encapsulationAndproperrty.pdb
