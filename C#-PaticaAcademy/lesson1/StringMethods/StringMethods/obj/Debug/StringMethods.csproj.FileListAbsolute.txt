@@ -1,0 +1,7 @@
+C:\Users\YUNUS EMRE\source\repos\StringMethods\StringMethods\bin\Debug\StringMethods.exe.config
+C:\Users\YUNUS EMRE\source\repos\StringMethods\StringMethods\bin\Debug\StringMethods.exe
+C:\Users\YUNUS EMRE\source\repos\StringMethods\StringMethods\bin\Debug\StringMethods.pdb
+C:\Users\YUNUS EMRE\source\repos\StringMethods\StringMethods\obj\Debug\StringMethods.csproj.AssemblyReference.cache
+C:\Users\YUNUS EMRE\source\repos\StringMethods\StringMethods\obj\Debug\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\YUNUS EMRE\source\repos\StringMethods\StringMethods\obj\Debug\StringMethods.exe
+C:\Users\YUNUS EMRE\source\repos\StringMethods\StringMethods\obj\Debug\StringMethods.pdb
