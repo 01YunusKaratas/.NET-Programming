@@ -113,6 +113,10 @@ namespace Collection
                 Console.WriteLine("Liste boş");
             }
 
+            list.Clear(); //lsiteyi temizler
+
+            //Collectionslarda gezerken yada parametre alırken yada onlar için method yazarken <T> olarak belirticeksin ve dönerken var kullanıcıaksın
+
         }
     }
 }
