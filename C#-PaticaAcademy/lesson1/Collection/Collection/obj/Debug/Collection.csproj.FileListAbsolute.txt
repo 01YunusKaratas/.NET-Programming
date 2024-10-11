@@ -1,0 +1,7 @@
+C:\Users\YUNUS EMRE\source\repos\Collection\Collection\bin\Debug\Collection.exe.config
+C:\Users\YUNUS EMRE\source\repos\Collection\Collection\bin\Debug\Collection.exe
+C:\Users\YUNUS EMRE\source\repos\Collection\Collection\bin\Debug\Collection.pdb
+C:\Users\YUNUS EMRE\source\repos\Collection\Collection\obj\Debug\Collection.csproj.AssemblyReference.cache
+C:\Users\YUNUS EMRE\source\repos\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+C:\Users\YUNUS EMRE\source\repos\Collection\Collection\obj\Debug\Collection.exe
+C:\Users\YUNUS EMRE\source\repos\Collection\Collection\obj\Debug\Collection.pdb
