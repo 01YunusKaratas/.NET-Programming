@@ -1,0 +1,7 @@
+C:\Users\YUNUS EMRE\source\repos\arraylist\arraylist\bin\Debug\arraylist.exe.config
+C:\Users\YUNUS EMRE\source\repos\arraylist\arraylist\bin\Debug\arraylist.exe
+C:\Users\YUNUS EMRE\source\repos\arraylist\arraylist\bin\Debug\arraylist.pdb
+C:\Users\YUNUS EMRE\source\repos\arraylist\arraylist\obj\Debug\arraylist.csproj.AssemblyReference.cache
+C:\Users\YUNUS EMRE\source\repos\arraylist\arraylist\obj\Debug\arraylist.csproj.CoreCompileInputs.cache
+C:\Users\YUNUS EMRE\source\repos\arraylist\arraylist\obj\Debug\arraylist.exe
+C:\Users\YUNUS EMRE\source\repos\arraylist\arraylist\obj\Debug\arraylist.pdb
