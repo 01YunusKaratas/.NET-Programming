@@ -1,0 +1,7 @@
+C:\Users\YUNUS EMRE\source\repos\Projects\Projects\bin\Debug\Projects.exe.config
+C:\Users\YUNUS EMRE\source\repos\Projects\Projects\bin\Debug\Projects.exe
+C:\Users\YUNUS EMRE\source\repos\Projects\Projects\bin\Debug\Projects.pdb
+C:\Users\YUNUS EMRE\source\repos\Projects\Projects\obj\Debug\Projects.csproj.AssemblyReference.cache
+C:\Users\YUNUS EMRE\source\repos\Projects\Projects\obj\Debug\Projects.csproj.CoreCompileInputs.cache
+C:\Users\YUNUS EMRE\source\repos\Projects\Projects\obj\Debug\Projects.exe
+C:\Users\YUNUS EMRE\source\repos\Projects\Projects\obj\Debug\Projects.pdb
